@@ -5,5 +5,5 @@ master dev
 =======
 dev+dev
 123
-Git is free a software
+Git is free software
 
